@@ -1,0 +1,16 @@
+[
+  {
+    "lesson_id": "les_01",
+    "unit_id": "unit_01",
+    "unit_title": "Lập trình & Mã nguồn",
+    "lesson_title": "Quản lý Source Code & Git",
+    "order_index": 1
+  },
+  {
+    "lesson_id": "les_02",
+    "unit_id": "unit_01",
+    "unit_title": "Lập trình & Mã nguồn",
+    "lesson_title": "Xử lý Lỗi & Tối ưu Code",
+    "order_index": 2
+  }
+]

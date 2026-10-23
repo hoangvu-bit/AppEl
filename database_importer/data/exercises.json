@@ -1,0 +1,1753 @@
+[
+  {
+    "exercise_id": "ex_001",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_11",
+      "lesson_id": "les_03",
+      "word": "Containerization",
+      "ipa": "/kənˌteɪnəraɪˈzeɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Đóng gói ứng dụng trong container",
+      "example_en": "Containerization allows developers to package an application with all its dependencies.",
+      "example_vi": "Đóng gói container cho phép lập trình viên đóng gói ứng dụng cùng với mọi phụ thuộc của nó.",
+      "audio_url": "[link removed]Containerization&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Containerization",
+        "ipa": "/kənˌteɪnəraɪˈzeɪʃn/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Containerization&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Đóng gói ứng dụng trong container",
+        "example_en": "Containerization allows developers to package an application with all its dependencies.",
+        "example_vi": "Đóng gói container cho phép lập trình viên đóng gói ứng dụng cùng với mọi phụ thuộc của nó."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_002",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_11",
+      "lesson_id": "les_03",
+      "word": "Containerization",
+      "ipa": "/kənˌteɪnəraɪˈzeɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Đóng gói ứng dụng trong container",
+      "example_en": "Containerization allows developers to package an application with all its dependencies.",
+      "example_vi": "Đóng gói container cho phép lập trình viên đóng gói ứng dụng cùng với mọi phụ thuộc của nó.",
+      "audio_url": "[link removed]Containerization&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "_______ allows developers to package an application with all its dependencies.",
+      "target_answer": "Containerization",
+      "hint_meaning": "Đóng gói ứng dụng trong container",
+      "hint_ipa": "/kənˌteɪnəraɪˈzeɪʃn/",
+      "hint_first_letter": "C"
+    }
+  },
+  {
+    "exercise_id": "ex_003",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_11",
+      "lesson_id": "les_03",
+      "word": "Containerization",
+      "ipa": "/kənˌteɪnəraɪˈzeɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Đóng gói ứng dụng trong container",
+      "example_en": "Containerization allows developers to package an application with all its dependencies.",
+      "example_vi": "Đóng gói container cho phép lập trình viên đóng gói ứng dụng cùng với mọi phụ thuộc của nó.",
+      "audio_url": "[link removed]Containerization&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Containerization allows developers to package an application with all its dependencies.",
+      "translation_vi": "Đóng gói container cho phép lập trình viên đóng gói ứng dụng cùng với mọi phụ thuộc của nó.",
+      "scrambled_words": [
+        "developers",
+        "package",
+        "allows",
+        "with",
+        "its",
+        "Containerization",
+        "to",
+        "an",
+        "application",
+        "dependencies",
+        "all"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_004",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_11",
+      "lesson_id": "les_03",
+      "word": "Containerization",
+      "ipa": "/kənˌteɪnəraɪˈzeɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Đóng gói ứng dụng trong container",
+      "example_en": "Containerization allows developers to package an application with all its dependencies.",
+      "example_vi": "Đóng gói container cho phép lập trình viên đóng gói ứng dụng cùng với mọi phụ thuộc của nó.",
+      "audio_url": "[link removed]Containerization&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Containerization",
+      "ipa": "/kənˌteɪnəraɪˈzeɪʃn/",
+      "audio_url": "[link removed]Containerization&type=2",
+      "sample_sentence": "Containerization allows developers to package an application with all its dependencies.",
+      "sample_translation": "Đóng gói container cho phép lập trình viên đóng gói ứng dụng cùng với mọi phụ thuộc của nó.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_005",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_12",
+      "lesson_id": "les_03",
+      "word": "Orchestration",
+      "ipa": "/ˌɔːkɪˈstreɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Điều phối và tự động hóa hệ thống",
+      "example_en": "Kubernetes simplifies container orchestration across multiple server clusters.",
+      "example_vi": "Kubernetes đơn giản hóa việc điều phối container trên nhiều cụm máy chủ.",
+      "audio_url": "[link removed]Orchestration&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Orchestration",
+        "ipa": "/ˌɔːkɪˈstreɪʃn/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Orchestration&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Điều phối và tự động hóa hệ thống",
+        "example_en": "Kubernetes simplifies container orchestration across multiple server clusters.",
+        "example_vi": "Kubernetes đơn giản hóa việc điều phối container trên nhiều cụm máy chủ."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_006",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_12",
+      "lesson_id": "les_03",
+      "word": "Orchestration",
+      "ipa": "/ˌɔːkɪˈstreɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Điều phối và tự động hóa hệ thống",
+      "example_en": "Kubernetes simplifies container orchestration across multiple server clusters.",
+      "example_vi": "Kubernetes đơn giản hóa việc điều phối container trên nhiều cụm máy chủ.",
+      "audio_url": "[link removed]Orchestration&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "Kubernetes simplifies container _______ across multiple server clusters.",
+      "target_answer": "Orchestration",
+      "hint_meaning": "Điều phối và tự động hóa hệ thống",
+      "hint_ipa": "/ˌɔːkɪˈstreɪʃn/",
+      "hint_first_letter": "O"
+    }
+  },
+  {
+    "exercise_id": "ex_007",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_12",
+      "lesson_id": "les_03",
+      "word": "Orchestration",
+      "ipa": "/ˌɔːkɪˈstreɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Điều phối và tự động hóa hệ thống",
+      "example_en": "Kubernetes simplifies container orchestration across multiple server clusters.",
+      "example_vi": "Kubernetes đơn giản hóa việc điều phối container trên nhiều cụm máy chủ.",
+      "audio_url": "[link removed]Orchestration&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Kubernetes simplifies container orchestration across multiple server clusters.",
+      "translation_vi": "Kubernetes đơn giản hóa việc điều phối container trên nhiều cụm máy chủ.",
+      "scrambled_words": [
+        "simplifies",
+        "orchestration",
+        "multiple",
+        "container",
+        "clusters",
+        "across",
+        "Kubernetes",
+        "server"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_008",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_12",
+      "lesson_id": "les_03",
+      "word": "Orchestration",
+      "ipa": "/ˌɔːkɪˈstreɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Điều phối và tự động hóa hệ thống",
+      "example_en": "Kubernetes simplifies container orchestration across multiple server clusters.",
+      "example_vi": "Kubernetes đơn giản hóa việc điều phối container trên nhiều cụm máy chủ.",
+      "audio_url": "[link removed]Orchestration&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Orchestration",
+      "ipa": "/ˌɔːkɪˈstreɪʃn/",
+      "audio_url": "[link removed]Orchestration&type=2",
+      "sample_sentence": "Kubernetes simplifies container orchestration across multiple server clusters.",
+      "sample_translation": "Kubernetes đơn giản hóa việc điều phối container trên nhiều cụm máy chủ.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_009",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_13",
+      "lesson_id": "les_03",
+      "word": "Scalability",
+      "ipa": "/ˌskeɪləˈbɪləti/",
+      "part_of_speech": "n",
+      "meaning_vi": "Khả năng mở rộng quy mô",
+      "example_en": "Cloud infrastructure provides high scalability during traffic spikes.",
+      "example_vi": "Hạ tầng đám mây cung cấp khả năng mở rộng cao trong các đợt lưu lượng truy cập tăng vọt.",
+      "audio_url": "[link removed]Scalability&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Scalability",
+        "ipa": "/ˌskeɪləˈbɪləti/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Scalability&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Khả năng mở rộng quy mô",
+        "example_en": "Cloud infrastructure provides high scalability during traffic spikes.",
+        "example_vi": "Hạ tầng đám mây cung cấp khả năng mở rộng cao trong các đợt lưu lượng truy cập tăng vọt."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_010",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_13",
+      "lesson_id": "les_03",
+      "word": "Scalability",
+      "ipa": "/ˌskeɪləˈbɪləti/",
+      "part_of_speech": "n",
+      "meaning_vi": "Khả năng mở rộng quy mô",
+      "example_en": "Cloud infrastructure provides high scalability during traffic spikes.",
+      "example_vi": "Hạ tầng đám mây cung cấp khả năng mở rộng cao trong các đợt lưu lượng truy cập tăng vọt.",
+      "audio_url": "[link removed]Scalability&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "Cloud infrastructure provides high _______ during traffic spikes.",
+      "target_answer": "Scalability",
+      "hint_meaning": "Khả năng mở rộng quy mô",
+      "hint_ipa": "/ˌskeɪləˈbɪləti/",
+      "hint_first_letter": "S"
+    }
+  },
+  {
+    "exercise_id": "ex_011",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_13",
+      "lesson_id": "les_03",
+      "word": "Scalability",
+      "ipa": "/ˌskeɪləˈbɪləti/",
+      "part_of_speech": "n",
+      "meaning_vi": "Khả năng mở rộng quy mô",
+      "example_en": "Cloud infrastructure provides high scalability during traffic spikes.",
+      "example_vi": "Hạ tầng đám mây cung cấp khả năng mở rộng cao trong các đợt lưu lượng truy cập tăng vọt.",
+      "audio_url": "[link removed]Scalability&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Cloud infrastructure provides high scalability during traffic spikes.",
+      "translation_vi": "Hạ tầng đám mây cung cấp khả năng mở rộng cao trong các đợt lưu lượng truy cập tăng vọt.",
+      "scrambled_words": [
+        "Cloud",
+        "scalability",
+        "during",
+        "infrastructure",
+        "provides",
+        "traffic",
+        "spikes",
+        "high"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_012",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_13",
+      "lesson_id": "les_03",
+      "word": "Scalability",
+      "ipa": "/ˌskeɪləˈbɪləti/",
+      "part_of_speech": "n",
+      "meaning_vi": "Khả năng mở rộng quy mô",
+      "example_en": "Cloud infrastructure provides high scalability during traffic spikes.",
+      "example_vi": "Hạ tầng đám mây cung cấp khả năng mở rộng cao trong các đợt lưu lượng truy cập tăng vọt.",
+      "audio_url": "[link removed]Scalability&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Scalability",
+      "ipa": "/ˌskeɪləˈbɪləti/",
+      "audio_url": "[link removed]Scalability&type=2",
+      "sample_sentence": "Cloud infrastructure provides high scalability during traffic spikes.",
+      "sample_translation": "Hạ tầng đám mây cung cấp khả năng mở rộng cao trong các đợt lưu lượng truy cập tăng vọt.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_013",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_14",
+      "lesson_id": "les_03",
+      "word": "Serverless",
+      "ipa": "/ˈsɜːvələs/",
+      "part_of_speech": "adj",
+      "meaning_vi": "Không máy chủ (mô hình điện toán đám mây)",
+      "example_en": "Serverless architecture enables building applications without managing physical servers.",
+      "example_vi": "Kiến trúc không máy chủ cho phép xây dựng ứng dụng mà không cần quản lý máy chủ vật lý.",
+      "audio_url": "[link removed]Serverless&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Serverless",
+        "ipa": "/ˈsɜːvələs/",
+        "part_of_speech": "adj",
+        "audio_url": "[link removed]Serverless&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Không máy chủ (mô hình điện toán đám mây)",
+        "example_en": "Serverless architecture enables building applications without managing physical servers.",
+        "example_vi": "Kiến trúc không máy chủ cho phép xây dựng ứng dụng mà không cần quản lý máy chủ vật lý."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_014",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_14",
+      "lesson_id": "les_03",
+      "word": "Serverless",
+      "ipa": "/ˈsɜːvələs/",
+      "part_of_speech": "adj",
+      "meaning_vi": "Không máy chủ (mô hình điện toán đám mây)",
+      "example_en": "Serverless architecture enables building applications without managing physical servers.",
+      "example_vi": "Kiến trúc không máy chủ cho phép xây dựng ứng dụng mà không cần quản lý máy chủ vật lý.",
+      "audio_url": "[link removed]Serverless&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "_______ architecture enables building applications without managing physical servers.",
+      "target_answer": "Serverless",
+      "hint_meaning": "Không máy chủ (mô hình điện toán đám mây)",
+      "hint_ipa": "/ˈsɜːvələs/",
+      "hint_first_letter": "S"
+    }
+  },
+  {
+    "exercise_id": "ex_015",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_14",
+      "lesson_id": "les_03",
+      "word": "Serverless",
+      "ipa": "/ˈsɜːvələs/",
+      "part_of_speech": "adj",
+      "meaning_vi": "Không máy chủ (mô hình điện toán đám mây)",
+      "example_en": "Serverless architecture enables building applications without managing physical servers.",
+      "example_vi": "Kiến trúc không máy chủ cho phép xây dựng ứng dụng mà không cần quản lý máy chủ vật lý.",
+      "audio_url": "[link removed]Serverless&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Serverless architecture enables building applications without managing physical servers.",
+      "translation_vi": "Kiến trúc không máy chủ cho phép xây dựng ứng dụng mà không cần quản lý máy chủ vật lý.",
+      "scrambled_words": [
+        "building",
+        "Serverless",
+        "applications",
+        "servers",
+        "architecture",
+        "without",
+        "physical",
+        "enables",
+        "managing"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_016",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_14",
+      "lesson_id": "les_03",
+      "word": "Serverless",
+      "ipa": "/ˈsɜːvələs/",
+      "part_of_speech": "adj",
+      "meaning_vi": "Không máy chủ (mô hình điện toán đám mây)",
+      "example_en": "Serverless architecture enables building applications without managing physical servers.",
+      "example_vi": "Kiến trúc không máy chủ cho phép xây dựng ứng dụng mà không cần quản lý máy chủ vật lý.",
+      "audio_url": "[link removed]Serverless&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Serverless",
+      "ipa": "/ˈsɜːvələs/",
+      "audio_url": "[link removed]Serverless&type=2",
+      "sample_sentence": "Serverless architecture enables building applications without managing physical servers.",
+      "sample_translation": "Kiến trúc không máy chủ cho phép xây dựng ứng dụng mà không cần quản lý máy chủ vật lý.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_017",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_15",
+      "lesson_id": "les_03",
+      "word": "Continuous Integration",
+      "ipa": "/kənˌtɪnjuəs ˌɪntɪˈɡreɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Tích hợp liên tục (CI)",
+      "example_en": "Continuous Integration helps teams detect and resolve software bugs early.",
+      "example_vi": "Tích hợp liên tục giúp các nhóm phát hiện và xử lý lỗi phần mềm từ sớm.",
+      "audio_url": "[link removed]Continuous Integration&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Continuous Integration",
+        "ipa": "/kənˌtɪnjuəs ˌɪntɪˈɡreɪʃn/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Continuous Integration&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Tích hợp liên tục (CI)",
+        "example_en": "Continuous Integration helps teams detect and resolve software bugs early.",
+        "example_vi": "Tích hợp liên tục giúp các nhóm phát hiện và xử lý lỗi phần mềm từ sớm."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_018",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_15",
+      "lesson_id": "les_03",
+      "word": "Continuous Integration",
+      "ipa": "/kənˌtɪnjuəs ˌɪntɪˈɡreɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Tích hợp liên tục (CI)",
+      "example_en": "Continuous Integration helps teams detect and resolve software bugs early.",
+      "example_vi": "Tích hợp liên tục giúp các nhóm phát hiện và xử lý lỗi phần mềm từ sớm.",
+      "audio_url": "[link removed]Continuous Integration&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "_______ helps teams detect and resolve software bugs early.",
+      "target_answer": "Continuous Integration",
+      "hint_meaning": "Tích hợp liên tục (CI)",
+      "hint_ipa": "/kənˌtɪnjuəs ˌɪntɪˈɡreɪʃn/",
+      "hint_first_letter": "C"
+    }
+  },
+  {
+    "exercise_id": "ex_019",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_15",
+      "lesson_id": "les_03",
+      "word": "Continuous Integration",
+      "ipa": "/kənˌtɪnjuəs ˌɪntɪˈɡreɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Tích hợp liên tục (CI)",
+      "example_en": "Continuous Integration helps teams detect and resolve software bugs early.",
+      "example_vi": "Tích hợp liên tục giúp các nhóm phát hiện và xử lý lỗi phần mềm từ sớm.",
+      "audio_url": "[link removed]Continuous Integration&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Continuous Integration helps teams detect and resolve software bugs early.",
+      "translation_vi": "Tích hợp liên tục giúp các nhóm phát hiện và xử lý lỗi phần mềm từ sớm.",
+      "scrambled_words": [
+        "helps",
+        "Integration",
+        "teams",
+        "Continuous",
+        "bugs",
+        "early",
+        "resolve",
+        "software",
+        "detect",
+        "and"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_020",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_15",
+      "lesson_id": "les_03",
+      "word": "Continuous Integration",
+      "ipa": "/kənˌtɪnjuəs ˌɪntɪˈɡreɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Tích hợp liên tục (CI)",
+      "example_en": "Continuous Integration helps teams detect and resolve software bugs early.",
+      "example_vi": "Tích hợp liên tục giúp các nhóm phát hiện và xử lý lỗi phần mềm từ sớm.",
+      "audio_url": "[link removed]Continuous Integration&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Continuous Integration",
+      "ipa": "/kənˌtɪnjuəs ˌɪntɪˈɡreɪʃn/",
+      "audio_url": "[link removed]Continuous Integration&type=2",
+      "sample_sentence": "Continuous Integration helps teams detect and resolve software bugs early.",
+      "sample_translation": "Tích hợp liên tục giúp các nhóm phát hiện và xử lý lỗi phần mềm từ sớm.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_021",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_16",
+      "lesson_id": "les_03",
+      "word": "Continuous Deployment",
+      "ipa": "/kənˌtɪnjuəs dɪˈplɔɪmənt/",
+      "part_of_speech": "n",
+      "meaning_vi": "Triển khai liên tục (CD)",
+      "example_en": "Continuous Deployment automates code releases directly to production environments.",
+      "example_vi": "Triển khai liên tục tự động hóa việc phát hành mã nguồn trực tiếp lên môi trường sản phẩm.",
+      "audio_url": "[link removed]Continuous Deployment&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Continuous Deployment",
+        "ipa": "/kənˌtɪnjuəs dɪˈplɔɪmənt/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Continuous Deployment&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Triển khai liên tục (CD)",
+        "example_en": "Continuous Deployment automates code releases directly to production environments.",
+        "example_vi": "Triển khai liên tục tự động hóa việc phát hành mã nguồn trực tiếp lên môi trường sản phẩm."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_022",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_16",
+      "lesson_id": "les_03",
+      "word": "Continuous Deployment",
+      "ipa": "/kənˌtɪnjuəs dɪˈplɔɪmənt/",
+      "part_of_speech": "n",
+      "meaning_vi": "Triển khai liên tục (CD)",
+      "example_en": "Continuous Deployment automates code releases directly to production environments.",
+      "example_vi": "Triển khai liên tục tự động hóa việc phát hành mã nguồn trực tiếp lên môi trường sản phẩm.",
+      "audio_url": "[link removed]Continuous Deployment&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "_______ automates code releases directly to production environments.",
+      "target_answer": "Continuous Deployment",
+      "hint_meaning": "Triển khai liên tục (CD)",
+      "hint_ipa": "/kənˌtɪnjuəs dɪˈplɔɪmənt/",
+      "hint_first_letter": "C"
+    }
+  },
+  {
+    "exercise_id": "ex_023",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_16",
+      "lesson_id": "les_03",
+      "word": "Continuous Deployment",
+      "ipa": "/kənˌtɪnjuəs dɪˈplɔɪmənt/",
+      "part_of_speech": "n",
+      "meaning_vi": "Triển khai liên tục (CD)",
+      "example_en": "Continuous Deployment automates code releases directly to production environments.",
+      "example_vi": "Triển khai liên tục tự động hóa việc phát hành mã nguồn trực tiếp lên môi trường sản phẩm.",
+      "audio_url": "[link removed]Continuous Deployment&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Continuous Deployment automates code releases directly to production environments.",
+      "translation_vi": "Triển khai liên tục tự động hóa việc phát hành mã nguồn trực tiếp lên môi trường sản phẩm.",
+      "scrambled_words": [
+        "production",
+        "Continuous",
+        "Deployment",
+        "to",
+        "environments",
+        "directly",
+        "releases",
+        "automates",
+        "code"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_024",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_16",
+      "lesson_id": "les_03",
+      "word": "Continuous Deployment",
+      "ipa": "/kənˌtɪnjuəs dɪˈplɔɪmənt/",
+      "part_of_speech": "n",
+      "meaning_vi": "Triển khai liên tục (CD)",
+      "example_en": "Continuous Deployment automates code releases directly to production environments.",
+      "example_vi": "Triển khai liên tục tự động hóa việc phát hành mã nguồn trực tiếp lên môi trường sản phẩm.",
+      "audio_url": "[link removed]Continuous Deployment&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Continuous Deployment",
+      "ipa": "/kənˌtɪnjuəs dɪˈplɔɪmənt/",
+      "audio_url": "[link removed]Continuous Deployment&type=2",
+      "sample_sentence": "Continuous Deployment automates code releases directly to production environments.",
+      "sample_translation": "Triển khai liên tục tự động hóa việc phát hành mã nguồn trực tiếp lên môi trường sản phẩm.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_025",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_17",
+      "lesson_id": "les_03",
+      "word": "Pipeline",
+      "ipa": "/ˈpaɪplaɪn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Quy trình tự động hóa quy chuẩn",
+      "example_en": "The DevOps pipeline executes build, test, and deployment jobs sequentially.",
+      "example_vi": "Đường ống DevOps thực thi các tác vụ biên dịch, kiểm thử và triển khai theo tuần tự.",
+      "audio_url": "[link removed]Pipeline&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Pipeline",
+        "ipa": "/ˈpaɪplaɪn/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Pipeline&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Quy trình tự động hóa quy chuẩn",
+        "example_en": "The DevOps pipeline executes build, test, and deployment jobs sequentially.",
+        "example_vi": "Đường ống DevOps thực thi các tác vụ biên dịch, kiểm thử và triển khai theo tuần tự."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_026",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_17",
+      "lesson_id": "les_03",
+      "word": "Pipeline",
+      "ipa": "/ˈpaɪplaɪn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Quy trình tự động hóa quy chuẩn",
+      "example_en": "The DevOps pipeline executes build, test, and deployment jobs sequentially.",
+      "example_vi": "Đường ống DevOps thực thi các tác vụ biên dịch, kiểm thử và triển khai theo tuần tự.",
+      "audio_url": "[link removed]Pipeline&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "The DevOps _______ executes build, test, and deployment jobs sequentially.",
+      "target_answer": "Pipeline",
+      "hint_meaning": "Quy trình tự động hóa quy chuẩn",
+      "hint_ipa": "/ˈpaɪplaɪn/",
+      "hint_first_letter": "P"
+    }
+  },
+  {
+    "exercise_id": "ex_027",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_17",
+      "lesson_id": "les_03",
+      "word": "Pipeline",
+      "ipa": "/ˈpaɪplaɪn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Quy trình tự động hóa quy chuẩn",
+      "example_en": "The DevOps pipeline executes build, test, and deployment jobs sequentially.",
+      "example_vi": "Đường ống DevOps thực thi các tác vụ biên dịch, kiểm thử và triển khai theo tuần tự.",
+      "audio_url": "[link removed]Pipeline&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "The DevOps pipeline executes build, test, and deployment jobs sequentially.",
+      "translation_vi": "Đường ống DevOps thực thi các tác vụ biên dịch, kiểm thử và triển khai theo tuần tự.",
+      "scrambled_words": [
+        "pipeline",
+        "deployment",
+        "sequentially",
+        "jobs",
+        "executes",
+        "The",
+        "and",
+        "build",
+        "DevOps",
+        "test"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_028",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_17",
+      "lesson_id": "les_03",
+      "word": "Pipeline",
+      "ipa": "/ˈpaɪplaɪn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Quy trình tự động hóa quy chuẩn",
+      "example_en": "The DevOps pipeline executes build, test, and deployment jobs sequentially.",
+      "example_vi": "Đường ống DevOps thực thi các tác vụ biên dịch, kiểm thử và triển khai theo tuần tự.",
+      "audio_url": "[link removed]Pipeline&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Pipeline",
+      "ipa": "/ˈpaɪplaɪn/",
+      "audio_url": "[link removed]Pipeline&type=2",
+      "sample_sentence": "The DevOps pipeline executes build, test, and deployment jobs sequentially.",
+      "sample_translation": "Đường ống DevOps thực thi các tác vụ biên dịch, kiểm thử và triển khai theo tuần tự.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_029",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_18",
+      "lesson_id": "les_03",
+      "word": "Provision",
+      "ipa": "/prəˈvɪʒn/",
+      "part_of_speech": "v",
+      "meaning_vi": "Cung cấp tài nguyên hệ thống",
+      "example_en": "Terraform is used to provision virtual machines and network resources automatically.",
+      "example_vi": "Terraform được sử dụng để cung cấp tài nguyên máy ảo và mạng một cách tự động.",
+      "audio_url": "[link removed]Provision&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Provision",
+        "ipa": "/prəˈvɪʒn/",
+        "part_of_speech": "v",
+        "audio_url": "[link removed]Provision&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Cung cấp tài nguyên hệ thống",
+        "example_en": "Terraform is used to provision virtual machines and network resources automatically.",
+        "example_vi": "Terraform được sử dụng để cung cấp tài nguyên máy ảo và mạng một cách tự động."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_030",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_18",
+      "lesson_id": "les_03",
+      "word": "Provision",
+      "ipa": "/prəˈvɪʒn/",
+      "part_of_speech": "v",
+      "meaning_vi": "Cung cấp tài nguyên hệ thống",
+      "example_en": "Terraform is used to provision virtual machines and network resources automatically.",
+      "example_vi": "Terraform được sử dụng để cung cấp tài nguyên máy ảo và mạng một cách tự động.",
+      "audio_url": "[link removed]Provision&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "Terraform is used to _______ virtual machines and network resources automatically.",
+      "target_answer": "Provision",
+      "hint_meaning": "Cung cấp tài nguyên hệ thống",
+      "hint_ipa": "/prəˈvɪʒn/",
+      "hint_first_letter": "P"
+    }
+  },
+  {
+    "exercise_id": "ex_031",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_18",
+      "lesson_id": "les_03",
+      "word": "Provision",
+      "ipa": "/prəˈvɪʒn/",
+      "part_of_speech": "v",
+      "meaning_vi": "Cung cấp tài nguyên hệ thống",
+      "example_en": "Terraform is used to provision virtual machines and network resources automatically.",
+      "example_vi": "Terraform được sử dụng để cung cấp tài nguyên máy ảo và mạng một cách tự động.",
+      "audio_url": "[link removed]Provision&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Terraform is used to provision virtual machines and network resources automatically.",
+      "translation_vi": "Terraform được sử dụng để cung cấp tài nguyên máy ảo và mạng một cách tự động.",
+      "scrambled_words": [
+        "machines",
+        "to",
+        "resources",
+        "Terraform",
+        "provision",
+        "automatically",
+        "network",
+        "is",
+        "used",
+        "virtual",
+        "and"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_032",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_18",
+      "lesson_id": "les_03",
+      "word": "Provision",
+      "ipa": "/prəˈvɪʒn/",
+      "part_of_speech": "v",
+      "meaning_vi": "Cung cấp tài nguyên hệ thống",
+      "example_en": "Terraform is used to provision virtual machines and network resources automatically.",
+      "example_vi": "Terraform được sử dụng để cung cấp tài nguyên máy ảo và mạng một cách tự động.",
+      "audio_url": "[link removed]Provision&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Provision",
+      "ipa": "/prəˈvɪʒn/",
+      "audio_url": "[link removed]Provision&type=2",
+      "sample_sentence": "Terraform is used to provision virtual machines and network resources automatically.",
+      "sample_translation": "Terraform được sử dụng để cung cấp tài nguyên máy ảo và mạng một cách tự động.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_033",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_19",
+      "lesson_id": "les_03",
+      "word": "Infrastructure as Code",
+      "ipa": "/ˈɪnfrəstrʌktʃə æz kəʊd/",
+      "part_of_speech": "n",
+      "meaning_vi": "Cơ sở hạ tầng dưới dạng mã (IaC)",
+      "example_en": "Infrastructure as Code allows teams to manage servers using version-controlled configuration files.",
+      "example_vi": "Cơ sở hạ tầng dưới dạng mã cho phép các nhóm quản lý máy chủ bằng các tệp cấu hình có quản lý phiên bản.",
+      "audio_url": "[link removed]Infrastructure as Code&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Infrastructure as Code",
+        "ipa": "/ˈɪnfrəstrʌktʃə æz kəʊd/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Infrastructure as Code&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Cơ sở hạ tầng dưới dạng mã (IaC)",
+        "example_en": "Infrastructure as Code allows teams to manage servers using version-controlled configuration files.",
+        "example_vi": "Cơ sở hạ tầng dưới dạng mã cho phép các nhóm quản lý máy chủ bằng các tệp cấu hình có quản lý phiên bản."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_034",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_19",
+      "lesson_id": "les_03",
+      "word": "Infrastructure as Code",
+      "ipa": "/ˈɪnfrəstrʌktʃə æz kəʊd/",
+      "part_of_speech": "n",
+      "meaning_vi": "Cơ sở hạ tầng dưới dạng mã (IaC)",
+      "example_en": "Infrastructure as Code allows teams to manage servers using version-controlled configuration files.",
+      "example_vi": "Cơ sở hạ tầng dưới dạng mã cho phép các nhóm quản lý máy chủ bằng các tệp cấu hình có quản lý phiên bản.",
+      "audio_url": "[link removed]Infrastructure as Code&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "_______ allows teams to manage servers using version-controlled configuration files.",
+      "target_answer": "Infrastructure as Code",
+      "hint_meaning": "Cơ sở hạ tầng dưới dạng mã (IaC)",
+      "hint_ipa": "/ˈɪnfrəstrʌktʃə æz kəʊd/",
+      "hint_first_letter": "I"
+    }
+  },
+  {
+    "exercise_id": "ex_035",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_19",
+      "lesson_id": "les_03",
+      "word": "Infrastructure as Code",
+      "ipa": "/ˈɪnfrəstrʌktʃə æz kəʊd/",
+      "part_of_speech": "n",
+      "meaning_vi": "Cơ sở hạ tầng dưới dạng mã (IaC)",
+      "example_en": "Infrastructure as Code allows teams to manage servers using version-controlled configuration files.",
+      "example_vi": "Cơ sở hạ tầng dưới dạng mã cho phép các nhóm quản lý máy chủ bằng các tệp cấu hình có quản lý phiên bản.",
+      "audio_url": "[link removed]Infrastructure as Code&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Infrastructure as Code allows teams to manage servers using version-controlled configuration files.",
+      "translation_vi": "Cơ sở hạ tầng dưới dạng mã cho phép các nhóm quản lý máy chủ bằng các tệp cấu hình có quản lý phiên bản.",
+      "scrambled_words": [
+        "manage",
+        "teams",
+        "Infrastructure",
+        "files",
+        "as",
+        "Code",
+        "to",
+        "versioncontrolled",
+        "using",
+        "allows",
+        "configuration",
+        "servers"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_036",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_19",
+      "lesson_id": "les_03",
+      "word": "Infrastructure as Code",
+      "ipa": "/ˈɪnfrəstrʌktʃə æz kəʊd/",
+      "part_of_speech": "n",
+      "meaning_vi": "Cơ sở hạ tầng dưới dạng mã (IaC)",
+      "example_en": "Infrastructure as Code allows teams to manage servers using version-controlled configuration files.",
+      "example_vi": "Cơ sở hạ tầng dưới dạng mã cho phép các nhóm quản lý máy chủ bằng các tệp cấu hình có quản lý phiên bản.",
+      "audio_url": "[link removed]Infrastructure as Code&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Infrastructure as Code",
+      "ipa": "/ˈɪnfrəstrʌktʃə æz kəʊd/",
+      "audio_url": "[link removed]Infrastructure as Code&type=2",
+      "sample_sentence": "Infrastructure as Code allows teams to manage servers using version-controlled configuration files.",
+      "sample_translation": "Cơ sở hạ tầng dưới dạng mã cho phép các nhóm quản lý máy chủ bằng các tệp cấu hình có quản lý phiên bản.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_037",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_20",
+      "lesson_id": "les_03",
+      "word": "Sharding",
+      "ipa": "/ˈʃɑːdɪŋ/",
+      "part_of_speech": "n",
+      "meaning_vi": "Phân mảnh cơ sở dữ liệu ngang",
+      "example_en": "Database sharding distributes data across multiple machines to handle large workloads.",
+      "example_vi": "Phân mảnh cơ sở dữ liệu phân tán dữ liệu trên nhiều máy để xử lý khối lượng công việc lớn.",
+      "audio_url": "[link removed]Sharding&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Sharding",
+        "ipa": "/ˈʃɑːdɪŋ/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Sharding&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Phân mảnh cơ sở dữ liệu ngang",
+        "example_en": "Database sharding distributes data across multiple machines to handle large workloads.",
+        "example_vi": "Phân mảnh cơ sở dữ liệu phân tán dữ liệu trên nhiều máy để xử lý khối lượng công việc lớn."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_038",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_20",
+      "lesson_id": "les_03",
+      "word": "Sharding",
+      "ipa": "/ˈʃɑːdɪŋ/",
+      "part_of_speech": "n",
+      "meaning_vi": "Phân mảnh cơ sở dữ liệu ngang",
+      "example_en": "Database sharding distributes data across multiple machines to handle large workloads.",
+      "example_vi": "Phân mảnh cơ sở dữ liệu phân tán dữ liệu trên nhiều máy để xử lý khối lượng công việc lớn.",
+      "audio_url": "[link removed]Sharding&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "Database _______ distributes data across multiple machines to handle large workloads.",
+      "target_answer": "Sharding",
+      "hint_meaning": "Phân mảnh cơ sở dữ liệu ngang",
+      "hint_ipa": "/ˈʃɑːdɪŋ/",
+      "hint_first_letter": "S"
+    }
+  },
+  {
+    "exercise_id": "ex_039",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_20",
+      "lesson_id": "les_03",
+      "word": "Sharding",
+      "ipa": "/ˈʃɑːdɪŋ/",
+      "part_of_speech": "n",
+      "meaning_vi": "Phân mảnh cơ sở dữ liệu ngang",
+      "example_en": "Database sharding distributes data across multiple machines to handle large workloads.",
+      "example_vi": "Phân mảnh cơ sở dữ liệu phân tán dữ liệu trên nhiều máy để xử lý khối lượng công việc lớn.",
+      "audio_url": "[link removed]Sharding&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Database sharding distributes data across multiple machines to handle large workloads.",
+      "translation_vi": "Phân mảnh cơ sở dữ liệu phân tán dữ liệu trên nhiều máy để xử lý khối lượng công việc lớn.",
+      "scrambled_words": [
+        "across",
+        "multiple",
+        "large",
+        "sharding",
+        "handle",
+        "data",
+        "distributes",
+        "Database",
+        "machines",
+        "to",
+        "workloads"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_040",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_20",
+      "lesson_id": "les_03",
+      "word": "Sharding",
+      "ipa": "/ˈʃɑːdɪŋ/",
+      "part_of_speech": "n",
+      "meaning_vi": "Phân mảnh cơ sở dữ liệu ngang",
+      "example_en": "Database sharding distributes data across multiple machines to handle large workloads.",
+      "example_vi": "Phân mảnh cơ sở dữ liệu phân tán dữ liệu trên nhiều máy để xử lý khối lượng công việc lớn.",
+      "audio_url": "[link removed]Sharding&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Sharding",
+      "ipa": "/ˈʃɑːdɪŋ/",
+      "audio_url": "[link removed]Sharding&type=2",
+      "sample_sentence": "Database sharding distributes data across multiple machines to handle large workloads.",
+      "sample_translation": "Phân mảnh cơ sở dữ liệu phân tán dữ liệu trên nhiều máy để xử lý khối lượng công việc lớn.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_041",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_21",
+      "lesson_id": "les_03",
+      "word": "Replication",
+      "ipa": "/ˌreplɪˈkeɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Nhân bản / Sao chép dữ liệu",
+      "example_en": "Data replication ensures high availability and disaster recovery across regions.",
+      "example_vi": "Nhân bản dữ liệu đảm bảo tính sẵn sàng cao và khả năng phục hồi sau thảm họa giữa các khu vực.",
+      "audio_url": "[link removed]Replication&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Replication",
+        "ipa": "/ˌreplɪˈkeɪʃn/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Replication&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Nhân bản / Sao chép dữ liệu",
+        "example_en": "Data replication ensures high availability and disaster recovery across regions.",
+        "example_vi": "Nhân bản dữ liệu đảm bảo tính sẵn sàng cao và khả năng phục hồi sau thảm họa giữa các khu vực."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_042",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_21",
+      "lesson_id": "les_03",
+      "word": "Replication",
+      "ipa": "/ˌreplɪˈkeɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Nhân bản / Sao chép dữ liệu",
+      "example_en": "Data replication ensures high availability and disaster recovery across regions.",
+      "example_vi": "Nhân bản dữ liệu đảm bảo tính sẵn sàng cao và khả năng phục hồi sau thảm họa giữa các khu vực.",
+      "audio_url": "[link removed]Replication&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "Data _______ ensures high availability and disaster recovery across regions.",
+      "target_answer": "Replication",
+      "hint_meaning": "Nhân bản / Sao chép dữ liệu",
+      "hint_ipa": "/ˌreplɪˈkeɪʃn/",
+      "hint_first_letter": "R"
+    }
+  },
+  {
+    "exercise_id": "ex_043",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_21",
+      "lesson_id": "les_03",
+      "word": "Replication",
+      "ipa": "/ˌreplɪˈkeɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Nhân bản / Sao chép dữ liệu",
+      "example_en": "Data replication ensures high availability and disaster recovery across regions.",
+      "example_vi": "Nhân bản dữ liệu đảm bảo tính sẵn sàng cao và khả năng phục hồi sau thảm họa giữa các khu vực.",
+      "audio_url": "[link removed]Replication&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Data replication ensures high availability and disaster recovery across regions.",
+      "translation_vi": "Nhân bản dữ liệu đảm bảo tính sẵn sàng cao và khả năng phục hồi sau thảm họa giữa các khu vực.",
+      "scrambled_words": [
+        "high",
+        "replication",
+        "across",
+        "regions",
+        "ensures",
+        "disaster",
+        "and",
+        "availability",
+        "Data",
+        "recovery"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_044",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_21",
+      "lesson_id": "les_03",
+      "word": "Replication",
+      "ipa": "/ˌreplɪˈkeɪʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Nhân bản / Sao chép dữ liệu",
+      "example_en": "Data replication ensures high availability and disaster recovery across regions.",
+      "example_vi": "Nhân bản dữ liệu đảm bảo tính sẵn sàng cao và khả năng phục hồi sau thảm họa giữa các khu vực.",
+      "audio_url": "[link removed]Replication&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Replication",
+      "ipa": "/ˌreplɪˈkeɪʃn/",
+      "audio_url": "[link removed]Replication&type=2",
+      "sample_sentence": "Data replication ensures high availability and disaster recovery across regions.",
+      "sample_translation": "Nhân bản dữ liệu đảm bảo tính sẵn sàng cao và khả năng phục hồi sau thảm họa giữa các khu vực.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_045",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_22",
+      "lesson_id": "les_03",
+      "word": "Indexing",
+      "ipa": "/ˈɪndeksɪŋ/",
+      "part_of_speech": "n",
+      "meaning_vi": "Đánh chỉ mục",
+      "example_en": "Proper indexing drastically reduces database query execution time.",
+      "example_vi": "Việc đánh chỉ mục thích hợp giúp giảm đáng kể thời gian thực thi truy vấn cơ sở dữ liệu.",
+      "audio_url": "[link removed]Indexing&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Indexing",
+        "ipa": "/ˈɪndeksɪŋ/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Indexing&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Đánh chỉ mục",
+        "example_en": "Proper indexing drastically reduces database query execution time.",
+        "example_vi": "Việc đánh chỉ mục thích hợp giúp giảm đáng kể thời gian thực thi truy vấn cơ sở dữ liệu."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_046",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_22",
+      "lesson_id": "les_03",
+      "word": "Indexing",
+      "ipa": "/ˈɪndeksɪŋ/",
+      "part_of_speech": "n",
+      "meaning_vi": "Đánh chỉ mục",
+      "example_en": "Proper indexing drastically reduces database query execution time.",
+      "example_vi": "Việc đánh chỉ mục thích hợp giúp giảm đáng kể thời gian thực thi truy vấn cơ sở dữ liệu.",
+      "audio_url": "[link removed]Indexing&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "Proper _______ drastically reduces database query execution time.",
+      "target_answer": "Indexing",
+      "hint_meaning": "Đánh chỉ mục",
+      "hint_ipa": "/ˈɪndeksɪŋ/",
+      "hint_first_letter": "I"
+    }
+  },
+  {
+    "exercise_id": "ex_047",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_22",
+      "lesson_id": "les_03",
+      "word": "Indexing",
+      "ipa": "/ˈɪndeksɪŋ/",
+      "part_of_speech": "n",
+      "meaning_vi": "Đánh chỉ mục",
+      "example_en": "Proper indexing drastically reduces database query execution time.",
+      "example_vi": "Việc đánh chỉ mục thích hợp giúp giảm đáng kể thời gian thực thi truy vấn cơ sở dữ liệu.",
+      "audio_url": "[link removed]Indexing&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Proper indexing drastically reduces database query execution time.",
+      "translation_vi": "Việc đánh chỉ mục thích hợp giúp giảm đáng kể thời gian thực thi truy vấn cơ sở dữ liệu.",
+      "scrambled_words": [
+        "time",
+        "execution",
+        "indexing",
+        "database",
+        "Proper",
+        "drastically",
+        "reduces",
+        "query"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_048",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_22",
+      "lesson_id": "les_03",
+      "word": "Indexing",
+      "ipa": "/ˈɪndeksɪŋ/",
+      "part_of_speech": "n",
+      "meaning_vi": "Đánh chỉ mục",
+      "example_en": "Proper indexing drastically reduces database query execution time.",
+      "example_vi": "Việc đánh chỉ mục thích hợp giúp giảm đáng kể thời gian thực thi truy vấn cơ sở dữ liệu.",
+      "audio_url": "[link removed]Indexing&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Indexing",
+      "ipa": "/ˈɪndeksɪŋ/",
+      "audio_url": "[link removed]Indexing&type=2",
+      "sample_sentence": "Proper indexing drastically reduces database query execution time.",
+      "sample_translation": "Việc đánh chỉ mục thích hợp giúp giảm đáng kể thời gian thực thi truy vấn cơ sở dữ liệu.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_049",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_23",
+      "lesson_id": "les_03",
+      "word": "Transaction",
+      "ipa": "/trænˈzækʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Giao dịch cơ sở dữ liệu",
+      "example_en": "Database transactions must follow ACID properties to guarantee data consistency.",
+      "example_vi": "Các giao dịch cơ sở dữ liệu phải tuân thủ các tính chất ACID để đảm bảo tính nhất quán dữ liệu.",
+      "audio_url": "[link removed]Transaction&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Transaction",
+        "ipa": "/trænˈzækʃn/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Transaction&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Giao dịch cơ sở dữ liệu",
+        "example_en": "Database transactions must follow ACID properties to guarantee data consistency.",
+        "example_vi": "Các giao dịch cơ sở dữ liệu phải tuân thủ các tính chất ACID để đảm bảo tính nhất quán dữ liệu."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_050",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_23",
+      "lesson_id": "les_03",
+      "word": "Transaction",
+      "ipa": "/trænˈzækʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Giao dịch cơ sở dữ liệu",
+      "example_en": "Database transactions must follow ACID properties to guarantee data consistency.",
+      "example_vi": "Các giao dịch cơ sở dữ liệu phải tuân thủ các tính chất ACID để đảm bảo tính nhất quán dữ liệu.",
+      "audio_url": "[link removed]Transaction&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "Database _______s must follow ACID properties to guarantee data consistency.",
+      "target_answer": "Transaction",
+      "hint_meaning": "Giao dịch cơ sở dữ liệu",
+      "hint_ipa": "/trænˈzækʃn/",
+      "hint_first_letter": "T"
+    }
+  },
+  {
+    "exercise_id": "ex_051",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_23",
+      "lesson_id": "les_03",
+      "word": "Transaction",
+      "ipa": "/trænˈzækʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Giao dịch cơ sở dữ liệu",
+      "example_en": "Database transactions must follow ACID properties to guarantee data consistency.",
+      "example_vi": "Các giao dịch cơ sở dữ liệu phải tuân thủ các tính chất ACID để đảm bảo tính nhất quán dữ liệu.",
+      "audio_url": "[link removed]Transaction&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Database transactions must follow ACID properties to guarantee data consistency.",
+      "translation_vi": "Các giao dịch cơ sở dữ liệu phải tuân thủ các tính chất ACID để đảm bảo tính nhất quán dữ liệu.",
+      "scrambled_words": [
+        "ACID",
+        "transactions",
+        "data",
+        "Database",
+        "follow",
+        "properties",
+        "to",
+        "must",
+        "consistency",
+        "guarantee"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_052",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_23",
+      "lesson_id": "les_03",
+      "word": "Transaction",
+      "ipa": "/trænˈzækʃn/",
+      "part_of_speech": "n",
+      "meaning_vi": "Giao dịch cơ sở dữ liệu",
+      "example_en": "Database transactions must follow ACID properties to guarantee data consistency.",
+      "example_vi": "Các giao dịch cơ sở dữ liệu phải tuân thủ các tính chất ACID để đảm bảo tính nhất quán dữ liệu.",
+      "audio_url": "[link removed]Transaction&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Transaction",
+      "ipa": "/trænˈzækʃn/",
+      "audio_url": "[link removed]Transaction&type=2",
+      "sample_sentence": "Database transactions must follow ACID properties to guarantee data consistency.",
+      "sample_translation": "Các giao dịch cơ sở dữ liệu phải tuân thủ các tính chất ACID để đảm bảo tính nhất quán dữ liệu.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_053",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_24",
+      "lesson_id": "les_03",
+      "word": "Schema",
+      "ipa": "/ˈskiːmə/",
+      "part_of_speech": "n",
+      "meaning_vi": "Lược đồ / Cấu trúc dữ liệu",
+      "example_en": "NoSQL databases provide schema-less flexibility for storing unstructured documents.",
+      "example_vi": "Cơ sở dữ liệu NoSQL cung cấp sự linh hoạt không cần lược đồ cố định để lưu trữ tài liệu phi cấu trúc.",
+      "audio_url": "[link removed]Schema&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Schema",
+        "ipa": "/ˈskiːmə/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Schema&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Lược đồ / Cấu trúc dữ liệu",
+        "example_en": "NoSQL databases provide schema-less flexibility for storing unstructured documents.",
+        "example_vi": "Cơ sở dữ liệu NoSQL cung cấp sự linh hoạt không cần lược đồ cố định để lưu trữ tài liệu phi cấu trúc."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_054",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_24",
+      "lesson_id": "les_03",
+      "word": "Schema",
+      "ipa": "/ˈskiːmə/",
+      "part_of_speech": "n",
+      "meaning_vi": "Lược đồ / Cấu trúc dữ liệu",
+      "example_en": "NoSQL databases provide schema-less flexibility for storing unstructured documents.",
+      "example_vi": "Cơ sở dữ liệu NoSQL cung cấp sự linh hoạt không cần lược đồ cố định để lưu trữ tài liệu phi cấu trúc.",
+      "audio_url": "[link removed]Schema&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "NoSQL databases provide _______-less flexibility for storing unstructured documents.",
+      "target_answer": "Schema",
+      "hint_meaning": "Lược đồ / Cấu trúc dữ liệu",
+      "hint_ipa": "/ˈskiːmə/",
+      "hint_first_letter": "S"
+    }
+  },
+  {
+    "exercise_id": "ex_055",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_24",
+      "lesson_id": "les_03",
+      "word": "Schema",
+      "ipa": "/ˈskiːmə/",
+      "part_of_speech": "n",
+      "meaning_vi": "Lược đồ / Cấu trúc dữ liệu",
+      "example_en": "NoSQL databases provide schema-less flexibility for storing unstructured documents.",
+      "example_vi": "Cơ sở dữ liệu NoSQL cung cấp sự linh hoạt không cần lược đồ cố định để lưu trữ tài liệu phi cấu trúc.",
+      "audio_url": "[link removed]Schema&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "NoSQL databases provide schema-less flexibility for storing unstructured documents.",
+      "translation_vi": "Cơ sở dữ liệu NoSQL cung cấp sự linh hoạt không cần lược đồ cố định để lưu trữ tài liệu phi cấu trúc.",
+      "scrambled_words": [
+        "flexibility",
+        "NoSQL",
+        "for",
+        "provide",
+        "schemaless",
+        "unstructured",
+        "databases",
+        "documents",
+        "storing"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_056",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_24",
+      "lesson_id": "les_03",
+      "word": "Schema",
+      "ipa": "/ˈskiːmə/",
+      "part_of_speech": "n",
+      "meaning_vi": "Lược đồ / Cấu trúc dữ liệu",
+      "example_en": "NoSQL databases provide schema-less flexibility for storing unstructured documents.",
+      "example_vi": "Cơ sở dữ liệu NoSQL cung cấp sự linh hoạt không cần lược đồ cố định để lưu trữ tài liệu phi cấu trúc.",
+      "audio_url": "[link removed]Schema&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Schema",
+      "ipa": "/ˈskiːmə/",
+      "audio_url": "[link removed]Schema&type=2",
+      "sample_sentence": "NoSQL databases provide schema-less flexibility for storing unstructured documents.",
+      "sample_translation": "Cơ sở dữ liệu NoSQL cung cấp sự linh hoạt không cần lược đồ cố định để lưu trữ tài liệu phi cấu trúc.",
+      "minimum_score_required": 80
+    }
+  },
+  {
+    "exercise_id": "ex_057",
+    "lesson_id": "les_03",
+    "exercise_type": "FLASHCARD",
+    "instruction": "Lật thẻ để ghi nhớ từ vựng, phiên âm và câu ví dụ.",
+    "vocabulary": {
+      "vocab_id": "voc_25",
+      "lesson_id": "les_03",
+      "word": "Latency",
+      "ipa": "/ˈleɪtənsi/",
+      "part_of_speech": "n",
+      "meaning_vi": "Độ trễ mạng / hệ thống",
+      "example_en": "Caching frequently accessed queries in Redis minimizes database read latency.",
+      "example_vi": "Lưu trữ bộ đệm các truy vấn thường xuyên trong Redis giúp giảm thiểu độ trễ đọc của cơ sở dữ liệu.",
+      "audio_url": "[link removed]Latency&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "front": {
+        "word": "Latency",
+        "ipa": "/ˈleɪtənsi/",
+        "part_of_speech": "n",
+        "audio_url": "[link removed]Latency&type=2",
+        "image_url": "[link removed]"
+      },
+      "back": {
+        "meaning_vi": "Độ trễ mạng / hệ thống",
+        "example_en": "Caching frequently accessed queries in Redis minimizes database read latency.",
+        "example_vi": "Lưu trữ bộ đệm các truy vấn thường xuyên trong Redis giúp giảm thiểu độ trễ đọc của cơ sở dữ liệu."
+      }
+    }
+  },
+  {
+    "exercise_id": "ex_058",
+    "lesson_id": "les_03",
+    "exercise_type": "FILL_TYPING",
+    "instruction": "Điền từ tiếng Anh thích hợp vào chỗ trống để hoàn thành câu.",
+    "vocabulary": {
+      "vocab_id": "voc_25",
+      "lesson_id": "les_03",
+      "word": "Latency",
+      "ipa": "/ˈleɪtənsi/",
+      "part_of_speech": "n",
+      "meaning_vi": "Độ trễ mạng / hệ thống",
+      "example_en": "Caching frequently accessed queries in Redis minimizes database read latency.",
+      "example_vi": "Lưu trữ bộ đệm các truy vấn thường xuyên trong Redis giúp giảm thiểu độ trễ đọc của cơ sở dữ liệu.",
+      "audio_url": "[link removed]Latency&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "sentence_masked": "Caching frequently accessed queries in Redis minimizes database read _______.",
+      "target_answer": "Latency",
+      "hint_meaning": "Độ trễ mạng / hệ thống",
+      "hint_ipa": "/ˈleɪtənsi/",
+      "hint_first_letter": "L"
+    }
+  },
+  {
+    "exercise_id": "ex_059",
+    "lesson_id": "les_03",
+    "exercise_type": "WORD_ORDER",
+    "instruction": "Sắp xếp các từ sau theo đúng trật tự ngữ pháp để tạo thành câu hoàn chỉnh.",
+    "vocabulary": {
+      "vocab_id": "voc_25",
+      "lesson_id": "les_03",
+      "word": "Latency",
+      "ipa": "/ˈleɪtənsi/",
+      "part_of_speech": "n",
+      "meaning_vi": "Độ trễ mạng / hệ thống",
+      "example_en": "Caching frequently accessed queries in Redis minimizes database read latency.",
+      "example_vi": "Lưu trữ bộ đệm các truy vấn thường xuyên trong Redis giúp giảm thiểu độ trễ đọc của cơ sở dữ liệu.",
+      "audio_url": "[link removed]Latency&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_sentence": "Caching frequently accessed queries in Redis minimizes database read latency.",
+      "translation_vi": "Lưu trữ bộ đệm các truy vấn thường xuyên trong Redis giúp giảm thiểu độ trễ đọc của cơ sở dữ liệu.",
+      "scrambled_words": [
+        "in",
+        "Caching",
+        "minimizes",
+        "latency",
+        "accessed",
+        "Redis",
+        "queries",
+        "read",
+        "frequently",
+        "database"
+      ]
+    }
+  },
+  {
+    "exercise_id": "ex_060",
+    "lesson_id": "les_03",
+    "exercise_type": "SPEAKING",
+    "instruction": "Bấm nút micro và phát âm to, chuẩn xác từ vựng hoặc câu dưới đây.",
+    "vocabulary": {
+      "vocab_id": "voc_25",
+      "lesson_id": "les_03",
+      "word": "Latency",
+      "ipa": "/ˈleɪtənsi/",
+      "part_of_speech": "n",
+      "meaning_vi": "Độ trễ mạng / hệ thống",
+      "example_en": "Caching frequently accessed queries in Redis minimizes database read latency.",
+      "example_vi": "Lưu trữ bộ đệm các truy vấn thường xuyên trong Redis giúp giảm thiểu độ trễ đọc của cơ sở dữ liệu.",
+      "audio_url": "[link removed]Latency&type=2",
+      "image_url": "[link removed]"
+    },
+    "content": {
+      "target_word": "Latency",
+      "ipa": "/ˈleɪtənsi/",
+      "audio_url": "[link removed]Latency&type=2",
+      "sample_sentence": "Caching frequently accessed queries in Redis minimizes database read latency.",
+      "sample_translation": "Lưu trữ bộ đệm các truy vấn thường xuyên trong Redis giúp giảm thiểu độ trễ đọc của cơ sở dữ liệu.",
+      "minimum_score_required": 80
+    }
+  }
+]
